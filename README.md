@@ -1,6 +1,6 @@
 ###### CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS <br> ENGENHARIA DE COMPUTAÇÃO <br> Sistemas Distribuídos <br> Prof. Anolan Barrientos <br> 2017-1
 
-# <h1 style="margin-bottom:-20px;"> TRABALHO PRÁTICO </h1>
+# TRABALHO PRÁTICO
 
 #### Pedro Felipe Froes <br> Saulo Antunes
 
