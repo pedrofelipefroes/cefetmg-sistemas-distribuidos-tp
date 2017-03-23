@@ -39,7 +39,7 @@ Finalmente, é uma boa prática atentar para casos onde o GPS não está habilit
 
 Pode-se utilizar a aplicação através de um emulador de Android ou no próprio dispositivo. Utilizando em um emulador, deve-se atentar às permissões de acesso à localização da máquina do usuário. Para utilizar em um dispositivo, basta abrir a aplicação e caminhar – a localização deverá ser atualizada de acordo com o tempo e distância que usuário passar com a aplicação aberta. Por exemplo, a lozalização pode ser atualizada a cada 2 segundos e/ou a cada 200 metros caso os parâmetros `minTime` e `minDistance` sejam equivalentes a esses valores, respectivamente.
 
-SCREENSHOTS DE UTILIZAÇÃO
+<img src="screenshot.png" alt="Screenshot" style="display: block; width: 50%; margin: 0 auto"/>
 
 ## Referências
 
