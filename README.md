@@ -4,6 +4,7 @@
 
 #### Pedro Felipe Froes <br> Saulo Antunes
 
+<div align="justify">
 Trabalho prático realizado para a disciplina de Sistemas Distribuídos do curso de Engenharia de Computação do CEFET-MG, lecionada pela Prof. Anolan Barrientos.
 
 ## Introdução
@@ -39,10 +40,12 @@ Finalmente, é uma boa prática atentar para casos onde o GPS não está habilit
 
 Pode-se utilizar a aplicação através de um emulador de Android ou no próprio dispositivo. Utilizando em um emulador, deve-se atentar às permissões de acesso à localização da máquina do usuário. Para utilizar em um dispositivo, basta abrir a aplicação e caminhar – a localização deverá ser atualizada de acordo com o tempo e distância que usuário passar com a aplicação aberta. Por exemplo, a lozalização pode ser atualizada a cada 2 segundos e/ou a cada 200 metros caso os parâmetros `minTime` e `minDistance` sejam equivalentes a esses valores, respectivamente.
 
-<img src="screenshot.png" alt="Screenshot" style="display: block; width: 50%; margin: 0 auto"/>
+<img src="relatorios/img/tp0/screenshot.png" alt="Screenshot" style="width: 50%; box-shadow: 1px 1px 10px 0 rgba(0,0,0,255);"/>
+###### Figura 1 – _Screenshot_ da localização do disposito obtida através do GPS.
 
 ## Referências
 
+<div align="left">
 **Google API for Android**: Set Up Google Play Services. Disponível em: <https://developers.google.com/android/guides/setup>. Acesso em: 20, Mar, 2017.
 
 **Android Developers**: Getting the Last Known Location. Disponível em: <https://developer.android.com/training/location/retrieve-current.html>. Acesso em: 20, Mar, 2017.
