@@ -1,8 +1,4 @@
-**CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS
-ENGENHARIA DE COMPUTAÇÃO
-Sistemas Distribuídos
-Prof. Anolan Barrientos
-2017-1**
+###### CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS <br> ENGENHARIA DE COMPUTAÇÃO <br> Sistemas Distribuídos <br> Prof. Anolan Barrientos <br> 2017-1
 
 # Trabalho Prático 1: Comunicação
 
