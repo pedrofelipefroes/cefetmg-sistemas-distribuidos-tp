@@ -43,7 +43,7 @@
             Connect
           </h3>
           <p>
-            First, Click on the Connect button, then connected to <code>ws://test.mosquitto.org:8080/mqtt</code>.
+            First, Click on the Connect button, then connected to <code>ws://iot.eclipśe.org/ws</code>.
           </p>
         </div>
 
@@ -79,7 +79,7 @@
             <legend>MQTT broker on websocket</legend>
             <label>
 			  Address:
-              <input type="text" class="input-broker-ws" value="ws://test.mosquitto.org:8080"></label>
+              <input type="text" class="input-broker-ws" value="ws://iot.eclipśe.org/ws"></label>
           </fieldset>
 
           <fieldset>
@@ -89,6 +89,16 @@
               <input type="text" class="input-topic-sub" value="sd"></label>
             <button class="pure-button btn-subscribe">subscribe</button>
             <button class="pure-button btn-unsubscribe">unsubscribe</button>
+          </fieldset>
+          <fieldset style="display: none">
+            <legend>Publish</legend>
+            <label>
+              Topic:
+              <input type="text" class="input-topic-pub" value="mitsuruog"></label>
+            <label>
+              Message:
+              <input type="text" class="input-message" value="Hello mitsuruog :)"></label>
+            <button class="pure-button btn-publish">publish</button>
           </fieldset>
         </form>
       </div>
